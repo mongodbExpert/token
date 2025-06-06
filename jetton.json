@@ -1,7 +1,7 @@
 {
-  "name": "TestJetton",
-  "description": "My testnet jetton deployed on TON",
-  "image": "https://s3.coinmarketcap.com/static-gravity/image/65bd59de945a4de88cb62930b17d260b.jpg", 
+  "name": "my test token",
+  "description": "this is a test token",
+  "image": "https://www.ancient-jewellery.com/upload/images/shopprod/12626/medieval-french-jetton-reckoning-counter_12626_pic2_size3.jpg", 
   "symbol": "TJT",
   "decimals": 6
 }
