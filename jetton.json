@@ -1,0 +1,7 @@
+{
+  "name": "TestJetton",
+  "description": "My testnet jetton deployed on TON",
+  "image": "https://s3.coinmarketcap.com/static-gravity/image/65bd59de945a4de88cb62930b17d260b.jpg", 
+  "symbol": "TJT",
+  "decimals": 6
+}
